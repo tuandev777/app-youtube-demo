@@ -1,0 +1,5 @@
+export const URL_YOUTUBE: string = "https://www.googleapis.com/youtube/v3/"
+export const KEY_YOUTUBE: string = process.env.KEY_VIDEO || ""
+export const API_URL: string = process.env.API_URL || ""
+export const PLAYLIST_ID: string = process.env.PLAYLIST_ID || ""
+export const CHANNEL_ID: string = process.env.CHANNEL_ID || ""
